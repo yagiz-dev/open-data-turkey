@@ -142,3 +142,15 @@ Bu veriler XML formatında yayımlanır:
 | İş Bankası | [XML](https://www.isbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
 | Vakıf Katılım | [XML](https://www.vakifkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
 | Ziraat Katılım | [XML](https://www.ziraatkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
+
+## 🌟 Katkıda Bulunanlar
+
+Bu projeyi büyüten herkese teşekkürler!  
+<a href="https://github.com/yagiz-dev/open-data-turkey/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yagiz-dev/open-data-turkey" />
+</a>
+
+## 🧾 Lisans
+
+Bu repo [MIT Lisansı](LICENSE) altında lisanslanmıştır.  
+Liste yalnızca kamuya açık bağlantıları içerir ve **verilerin mülkiyeti ilgili kurumlara aittir.**
