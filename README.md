@@ -136,7 +136,7 @@ Bu veriler XML formatında yayımlanır:
 | QNB Finansbank | [XML](https://www.qnbfinansbank.com/TuketiciVerileri/TuketiciVerileri.xml) |
 | Garanti BBVA | [XML](https://www.garantibbva.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
 | VakıfBank | [XML](https://www.vakifbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Ziraat Bankası | [XML](https://www.ziraatbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
+| T.C. Ziraat Bankası | [XML](https://www.ziraatbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
 | TEB | [XML](https://www.teb.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
 | Türkiye Finans | [XML](https://www.turkiyefinans.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
 | İş Bankası | [XML](https://www.isbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
