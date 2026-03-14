@@ -113,27 +113,32 @@ Bu veriler XML formatında yayımlanır:
     </tr>
     <tr>
       <td><a href="https://www.fibabanka.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Fibabanka</a></td>
-      <td><a href="https://www.hsbc.com.tr/TuketiciVerileri/TuketiciVerileri.xml">HSBC</a></td>
-      <td><a href="https://www.kuveytturk.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Kuveyt Türk</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.odeabank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Odeabank</a></td>
-      <td><a href="https://www.sekerbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Şekerbank</a></td>
-      <td><a href="https://www.qnbfinansbank.com/TuketiciVerileri/TuketiciVerileri.xml">QNB Finansbank</a></td>
-    </tr>
-    <tr>
       <td><a href="https://www.garantibbva.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Garanti BBVA</a></td>
-      <td><a href="https://www.vakifbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">VakıfBank</a></td>
+      <td><a href="https://www.hsbc.com.tr/TuketiciVerileri/TuketiciVerileri.xml">HSBC</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.ing.com.tr/TuketiciVerileri/TuketiciVerileri.xml">ING</a></td>
+      <td><a href="https://www.kuveytturk.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Kuveyt Türk</a></td>
+      <td><a href="https://www.odeabank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Odeabank</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.qnb.com.tr/TuketiciVerileri/TuketiciVerileri.xml">QNB</a></td>
+      <td><a href="https://www.sekerbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Şekerbank</a></td>
       <td><a href="https://www.ziraatbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">T.C. Ziraat Bankası</a></td>
     </tr>
     <tr>
       <td><a href="https://www.teb.com.tr/TuketiciVerileri/TuketiciVerileri.xml">TEB</a></td>
       <td><a href="https://www.turkiyefinans.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Türkiye Finans</a></td>
-      <td><a href="https://www.isbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">İş Bankası</a></td>
+      <td><a href="https://www.isbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Türkiye İş Bankası</a></td>
     </tr>
     <tr>
       <td><a href="https://www.vakifkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Vakıf Katılım</a></td>
+      <td><a href="https://www.vakifbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">VakıfBank</a></td>
+      <td><a href="https://www.ziraatdinamik.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Ziraat Dinamik Banka</a></td>
+    </tr>
+    <tr>
       <td><a href="https://www.ziraatkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Ziraat Katılım</a></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
