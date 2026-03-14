@@ -94,28 +94,50 @@ Yeni kaynaklar ekleyerek, mevcutları güncelleyerek veya önerilerde bulunarak 
 2011 tarihli BDDK genelgesi gereği, tüm Türk bankaları bireysel müşterilerden tahsil ettikleri ücretleri **herkese açık şekilde paylaşmak zorundadır.**  
 Bu veriler XML formatında yayımlanır:
 
-| Banka | Link |
-|------|------|
-| Akbank | [XML](https://www.akbank.com/TuketiciVerileri/TuketiciVerileri.xml) |
-| Albaraka Türk | [XML](https://www.albaraka.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Alternatifbank | [XML](https://www.alternatifbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Burgan Bank | [XML](https://www.burgan.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Citibank | [XML](https://www.citibank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| DenizBank | [XML](https://www.denizbank.com/TuketiciVerileri/TuketiciVerileri.xml) |
-| Fibabanka | [XML](https://www.fibabanka.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| HSBC | [XML](https://www.hsbc.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Kuveyt Türk | [XML](https://www.kuveytturk.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Odeabank | [XML](https://www.odeabank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Şekerbank | [XML](https://www.sekerbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| QNB Finansbank | [XML](https://www.qnbfinansbank.com/TuketiciVerileri/TuketiciVerileri.xml) |
-| Garanti BBVA | [XML](https://www.garantibbva.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| VakıfBank | [XML](https://www.vakifbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| T.C. Ziraat Bankası | [XML](https://www.ziraatbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| TEB | [XML](https://www.teb.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Türkiye Finans | [XML](https://www.turkiyefinans.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| İş Bankası | [XML](https://www.isbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Vakıf Katılım | [XML](https://www.vakifkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
-| Ziraat Katılım | [XML](https://www.ziraatkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml) |
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Banka</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.akbank.com/TuketiciVerileri/TuketiciVerileri.xml">Akbank</a></td>
+      <td><a href="https://www.albaraka.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Albaraka Türk</a></td>
+      <td><a href="https://www.alternatifbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Alternatifbank</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.burgan.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Burgan Bank</a></td>
+      <td><a href="https://www.citibank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Citibank</a></td>
+      <td><a href="https://www.denizbank.com/TuketiciVerileri/TuketiciVerileri.xml">DenizBank</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.fibabanka.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Fibabanka</a></td>
+      <td><a href="https://www.hsbc.com.tr/TuketiciVerileri/TuketiciVerileri.xml">HSBC</a></td>
+      <td><a href="https://www.kuveytturk.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Kuveyt Türk</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.odeabank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Odeabank</a></td>
+      <td><a href="https://www.sekerbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Şekerbank</a></td>
+      <td><a href="https://www.qnbfinansbank.com/TuketiciVerileri/TuketiciVerileri.xml">QNB Finansbank</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.garantibbva.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Garanti BBVA</a></td>
+      <td><a href="https://www.vakifbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">VakıfBank</a></td>
+      <td><a href="https://www.ziraatbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">T.C. Ziraat Bankası</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.teb.com.tr/TuketiciVerileri/TuketiciVerileri.xml">TEB</a></td>
+      <td><a href="https://www.turkiyefinans.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Türkiye Finans</a></td>
+      <td><a href="https://www.isbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml">İş Bankası</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.vakifkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Vakıf Katılım</a></td>
+      <td><a href="https://www.ziraatkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml">Ziraat Katılım</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🌟 Katkıda Bulunanlar
 
