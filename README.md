@@ -16,18 +16,6 @@ Yeni kaynaklar ekleyerek, mevcutları güncelleyerek veya önerilerde bulunarak 
 
 ---
 
-### Lejant (Simgeler)
-
-| Simge | Anlamı |
-|------|----------------------|
-| 💵 | Ücretli erişim gerekiyor |
-| 👁️ | Kayıt/izin gerekli |
-| 🕗 | Güncelliğini yitirmiş |
-| 📠 | Makinece okunabilir değil / API yok |
-| ⏳ | Tarihsel veri yok |
-
----
-
 **📚 İçindekiler:**
 
 * [Kamu kurumları tarafından yayınlananlar](#🏛️-kamu-kurumları-tarafından-yayınlananlar)
@@ -44,18 +32,18 @@ Yeni kaynaklar ekleyerek, mevcutları güncelleyerek veya önerilerde bulunarak 
 * [TÜİK Coğrafi İstatistik Portalı](https://cip.tuik.gov.tr/) - TÜİK verilerini interaktif harita üzerinde görselleştirir.
 * [Döviz Kurları](https://tcmb.gov.tr/kurlar/today.xml) - Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) günlük döviz kurları.
   Gerçek zamanlı veri yok ancak [tarihsel veriler](https://www.tcmb.gov.tr/kurlar/kurlar_tr.html) mevcuttur.
-* 📠 [Resmî Gazete](https://www.resmigazete.gov.tr/) - Resmî mevzuat ve duyurular.
-* 📠 [TEİAŞ](https://www.teias.gov.tr/tr-TR) - Günlük enerji üretimi ve sistem frekansı verisi.
+* [Resmî Gazete](https://www.resmigazete.gov.tr/) - Resmî mevzuat ve duyurular.
+* [TEİAŞ](https://www.teias.gov.tr/tr-TR) - Günlük enerji üretimi ve sistem frekansı verisi.
 * [Hava Kalitesi Veri Bankası](https://sim.csb.gov.tr/STN/STN_Report/DataBank) - Çevre, Şehircilik ve İklim Değişikliği Bakanlığı verileri. ([Harita görünümü](https://www.havaizleme.gov.tr/))
 * [YSK Açık Veri Portalı](https://acikveri.ysk.gov.tr/) - Yüksek Seçim Kurulu'nun seçim verilerini grafiklerle sunduğu ve Excel/JSON formatlarında indirilebilir hale getirdiği portal.
 * [Sağlık Bakanlığı Açık Veri Portalı](https://acikveri.saglik.gov.tr/) - T.C. Sağlık Bakanlığı tarafından yayımlanan açık veri portalı.
 * [TUCBS Coğrafi Açık Veri Platformu](https://tucbs.gov.tr/) - Türkiye Ulusal Coğrafi Bilgi Sistemi kapsamında kamu kurumlarının açık coğrafi veri katmanlarını ve servis adreslerini sunar.
 * [ULAKBİM Veri Portalı](https://veri.ulakbim.gov.tr/index) - TÜBİTAK ULAKBİM tarafından sağlanmıştır.
-* 📠 [YÖK Atlas](https://yokatlas.yok.gov.tr/index.php) - Yükseköğretim Kurulu (YÖK) tarafından sağlanan yükseköğretim verileri.
+* [YÖK Atlas](https://yokatlas.yok.gov.tr/index.php) - Yükseköğretim Kurulu (YÖK) tarafından sağlanan yükseköğretim verileri.
 
 ---
 
-### Belediyeler
+### Belediyeler
 
 - [**Ankara Büyükşehir Belediyesi**](https://seffaf.ankara.bel.tr/)
 - [**Balıkesir Belediyesi**](https://acikveri.balikesir.bel.tr/)
@@ -84,20 +72,20 @@ Yeni kaynaklar ekleyerek, mevcutları güncelleyerek veya önerilerde bulunarak 
 - [**Borsa İstanbul (BİST) DataStore**](https://datastore.borsaistanbul.com/)
 - [**Elektronik Veri Dağıtım Sistemi (EVDS)**](https://evds3.tcmb.gov.tr) - Türkiye Cumhuriyet Merkez Bankası.
 - [**TBB Veri Sistemi**](https://verisistemi.tbb.org.tr/) - Türkiye Bankalar Birliği.
-- 📠 [**Bankacılık Sektörü Verileri**](https://www.bddk.org.tr/Veri/Index/72) - Bankacılık Düzenleme ve Denetleme Kurumu (BDDK).
-- 📠 [**Banka Dışı Finansal Kurum Verileri**](https://www.bddk.org.tr/Veri/Index/73) - BDDK.
+- [**Bankacılık Sektörü Verileri**](https://www.bddk.org.tr/Veri/Index/72) - Bankacılık Düzenleme ve Denetleme Kurumu (BDDK).
+- [**Banka Dışı Finansal Kurum Verileri**](https://www.bddk.org.tr/Veri/Index/73) - BDDK.
 
 ---
 
 #### Bankalar
 
-- 📠 [Banka Listesi](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/bankalar/64)
+- [Banka Listesi](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/bankalar/64)
 - [Şube Listesi](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/subeler/65)
-- 📠 [ATM Listesi](https://www.tbb.org.tr/app/harita.aspx?sube_tipi=6)
-- 📠 [Yönetici Listesi](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/yonetici-bilgileri/66)
-- 📠 [İnternet Adresleri](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/internet-adresleri/67)
-- 📠 [Tarihsel Veriler](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/tarihsel-bilgiler/68)
-- 📠 [Banka ve Şube Sayıları](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/banka-ve-sube-sayilari/70)
+- [ATM Listesi](https://www.tbb.org.tr/app/harita.aspx?sube_tipi=6)
+- [Yönetici Listesi](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/yonetici-bilgileri/66)
+- [İnternet Adresleri](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/internet-adresleri/67)
+- [Tarihsel Veriler](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/tarihsel-bilgiler/68)
+- [Banka ve Şube Sayıları](https://www.tbb.org.tr/tr/bankacilik/banka-ve-sektor-bilgileri/banka-bilgileri/banka-ve-sube-sayilari/70)
 
 ---
 
