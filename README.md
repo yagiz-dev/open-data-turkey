@@ -74,6 +74,7 @@ Yeni kaynaklar ekleyerek, mevcutları güncelleyerek veya önerilerde bulunarak 
 - [**TBB Veri Sistemi**](https://verisistemi.tbb.org.tr/) - Türkiye Bankalar Birliği.
 - [**Bankacılık Sektörü Verileri**](https://www.bddk.org.tr/Veri/Index/72) - Bankacılık Düzenleme ve Denetleme Kurumu (BDDK).
 - [**Banka Dışı Finansal Kurum Verileri**](https://www.bddk.org.tr/Veri/Index/73) - BDDK.
+- [**Halı Yıkama Fiyatları Veri Seti (Kasım 2026)**](https://haliyikamafabrikalari.com/hali-yikama-fiyatlari) - Halı Yıkama Fabrikaları. 81 il ve 682 ilçede halı yıkama firması sayıları ile 24 halı türü için m² fiyatları; CSV dosyaları [Zenodo](https://doi.org/10.5281/zenodo.24520867) ve [GitHub](https://github.com/hali-yikama-fabrikalari/turkiye-hali-yikama-fiyatlari-2026) üzerinde, CC BY 4.0 lisanslı.
 
 ---
 
