@@ -74,6 +74,7 @@ Yeni kaynaklar ekleyerek, mevcutları güncelleyerek veya önerilerde bulunarak 
 - [**TBB Veri Sistemi**](https://verisistemi.tbb.org.tr/) - Türkiye Bankalar Birliği.
 - [**Bankacılık Sektörü Verileri**](https://www.bddk.org.tr/Veri/Index/72) - Bankacılık Düzenleme ve Denetleme Kurumu (BDDK).
 - [**Banka Dışı Finansal Kurum Verileri**](https://www.bddk.org.tr/Veri/Index/73) - BDDK.
+- [**Türkiye Hizmet Fiyat Endeksi**](https://github.com/ustapazari/turkiye-hizmet-fiyat-endeksi) - Usta Pazarı. 60 ev ve işyeri hizmeti için aylık tahmini fiyat aralıkları ve örnek iş medyanları (CSV/JSON, CC BY 4.0, [DOI](https://doi.org/10.5281/zenodo.24599356)).
 
 ---
 
