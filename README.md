@@ -67,6 +67,12 @@ Yeni kaynaklar ekleyerek, mevcutları güncelleyerek veya önerilerde bulunarak 
 
 ## 💼 Şirketler tarafından yayınlananlar
 
+### Eğitim
+
+- [Ortaokul Matematik Kavram Yanılgısı Envanteri](https://lemmaakademi.com/metodoloji) - 31 lisansüstü tez ve makaleden derlenen 505 kayıt (6-8. sınıf; konu, sınıf, örneklem, görülme oranı, kaynak sayfası). CSV, CC BY 4.0, DOI 10.5281/zenodo.22180687.
+
+---
+
 ### Ekonomi
 
 - [**Borsa İstanbul (BİST) DataStore**](https://datastore.borsaistanbul.com/)
